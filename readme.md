@@ -16,3 +16,6 @@ The goal of this repository is to help track spam apps in the Microsoft Store. T
 | Tutorial for Blender 3D | https://www.microsoft.com/store/productId/9PD4R3H5D6MH | Spam |
 | Guide for Digital Calendar | https://www.microsoft.com/store/productId/9P4QMRBRBDGD | Spam |
 | Guide For Ableton Live | https://www.microsoft.com/store/productId/9P928JVK6K4N | Spam |
+| Guide for Google Earth Pro | https://www.microsoft.com/store/productId/9N183GKKGTVQ | Spam |
+| Guide for Animal Crossing New Horizons PC | https://www.microsoft.com/store/productId/9PGZM04RDJ58 | Spam |
+| Guide for Fall Guys : Ultimate Knockout | https://www.microsoft.com/store/productId/9P5MVZ9JX1TJ | Spam |
