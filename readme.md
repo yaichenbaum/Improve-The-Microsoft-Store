@@ -7,7 +7,7 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 - serves as a wrapper for YouTube video or text document (eg. Guide for Google Chrome)
 
 # What counts as misleading?
-- third party app that presents itself as an official client or service
+- third party app that presents itself as the official client or service
 - presents itself as free but requires the user to pay to access the features once downloaded
 - fork of an oss project that doesn't add any value over the original and charges unsuspecting users
 
