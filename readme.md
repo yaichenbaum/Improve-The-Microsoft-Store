@@ -20,3 +20,4 @@ The goal of this repository is to help track spam apps in the Microsoft Store. T
 | Guide for Animal Crossing New Horizons PC | https://www.microsoft.com/store/productId/9PGZM04RDJ58 | Spam |
 | Guide for Fall Guys : Ultimate Knockout | https://www.microsoft.com/store/productId/9P5MVZ9JX1TJ | Spam |
 | Beginner's Guide For GarageBand. | https://www.microsoft.com/store/productId/9NBLGGH67DC7 | Spam |
+| File Manager - File Explorer for Windows 10 | https://www.microsoft.com/store/productId/9ND2N28DX22H | It appears to be a copy of [Windows File Manager](https://www.microsoft.com/store/productId/9P7VBBBC49RB) with blue shade and removed help menu. The app might have followed the MIT license, but charging over $10 for that feels quite unethical at best. |
