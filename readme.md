@@ -19,3 +19,4 @@ The goal of this repository is to help track spam apps in the Microsoft Store. T
 | Guide for Google Earth Pro | https://www.microsoft.com/store/productId/9N183GKKGTVQ | Spam |
 | Guide for Animal Crossing New Horizons PC | https://www.microsoft.com/store/productId/9PGZM04RDJ58 | Spam |
 | Guide for Fall Guys : Ultimate Knockout | https://www.microsoft.com/store/productId/9P5MVZ9JX1TJ | Spam |
+| Beginner's Guide For GarageBand. | https://www.microsoft.com/store/productId/9NBLGGH67DC7 | Spam |
