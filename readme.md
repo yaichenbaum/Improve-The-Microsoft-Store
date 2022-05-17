@@ -39,3 +39,5 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 | Autocad 2020 Tutor | https://www.microsoft.com/store/productId/9PGT5WV34806 | Spam |
 | Finder - file explorer for Windows 11 | https://www.microsoft.com/store/productId/9P09W6PH7MW6 | Duplicate of File Explorer - Tabs, ZIP, RAR, 7z for Windows 11 https://www.microsoft.com/store/productId/9PJB9045P4ZQ |
 | Document Manager for Windows 11 | https://www.microsoft.com/store/productId/9N73SJ9N94P4 | Duplicate of Document Manager for Windows 10 https://www.microsoft.com/store/productId/9N913N4Z9JBC |
+| vNext PDF Editor for Windows 11 | https://www.microsoft.com/store/productId/9P51586BZKNG | Duplicate of BlossX Lightroom 11 - Photo Editor https://www.microsoft.com/store/productId/9P4WPFZ0GS16 |
+
