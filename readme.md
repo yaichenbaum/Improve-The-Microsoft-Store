@@ -41,3 +41,6 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 | Document Manager for Windows 11 | https://www.microsoft.com/store/productId/9N73SJ9N94P4 | Duplicate of Document Manager for Windows 10 https://www.microsoft.com/store/productId/9N913N4Z9JBC |
 | vNext PDF Editor for Windows 11 | https://www.microsoft.com/store/productId/9P51586BZKNG | Duplicate of BlossX Lightroom 11 - Photo Editor https://www.microsoft.com/store/productId/9P4WPFZ0GS16 |
 | PDF to Excel Converter Pro | https://www.microsoft.com/store/productId/9NGQXVNN0XMG | Spam |
+| 7 Zip - RAR files, Zip files | https://www.microsoft.com/store/productId/9NCBSRQKVKVS | Rip off of 7zip |
+| 7-Zip for Store | https://www.microsoft.com/store/productId/9NT4HZPHT8BC | Rip off of 7zip |
+| Cloud Drive Permission Manager | https://www.microsoft.com/store/productId/9N5KHD73FGKH | Misleading icon that looks like the Google Drive icon |
