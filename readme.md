@@ -1,5 +1,16 @@
 The goal of this repository is to help track spam apps in the Microsoft Store. This list will be updated over time. We'll also come back and remove app names from this list once they're removed from the store. Pull requests are welcome.
 
+# What counts as spam?
+It's a bit of a grey area but for the sake of this list we're going to define it as apps that are misleading or serve no purpose. Apps may be considered spam if they meet this criteria but each app is different and will be reviewed before being added to the list.
+- funcitonal but the features are already present in the OS and the app doesn't provide any additional value
+- is a duplicate or can be merged with an existing app from the same dev
+- serves as a wrapper for YouTube video or text document (eg. Guide for Google Chrome)
+
+# What counts as misleading?
+- third party app that presents itself as an official client or service
+- presents itself as free but requires the user to pay to access the features once downloaded
+- fork of an oss project that doesn't add any value over the original and charges unsuspecting users
+
 | Application | Link | Notes |
 |-------------|------|-------|
 | WindRAR | https://www.microsoft.com/store/productId/9MSVVS8TVB28 | Misleading title |
