@@ -10,3 +10,5 @@ The goal of this repository is to help track spam apps in the Microsoft Store. T
 | YouTube Download for Windows | https://www.microsoft.com/store/productId/9NFMKPLRG42M | Spam |
 | Real Ebooks Reader For Kindle On Windows | https://www.microsoft.com/store/productId/9P1B3NTMVSPZ | Spam |
 | Driver For Canon Printer . | https://www.microsoft.com/store/productId/9NSPX7XVS9DB | Spam |
+| Show Hide Taskbar | https://www.microsoft.com/store/productId/9NM26HJZXGJQ | Doesn't provide any functionality that's not already in the OS |
+
