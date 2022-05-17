@@ -22,3 +22,4 @@ The goal of this repository is to help track spam apps in the Microsoft Store. T
 | Beginner's Guide For GarageBand. | https://www.microsoft.com/store/productId/9NBLGGH67DC7 | Spam |
 | File Manager - File Explorer for Windows 10 | https://www.microsoft.com/store/productId/9ND2N28DX22H | It appears to be a copy of [Windows File Manager](https://www.microsoft.com/store/productId/9P7VBBBC49RB) with blue shade and removed help menu. The app might have followed the MIT license, but charging over $10 for that feels quite unethical at best. |
 | Driver for HP Printer | https://www.microsoft.com/store/productId/9NFWCNTJD1KX | Spam |
+| Street Earth Map Pro 3D World Globe | https://www.microsoft.com/store/productId/9NZPW5RFTTTG | Misleading icon and ripoff of Google Earth |
