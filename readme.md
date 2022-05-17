@@ -2,7 +2,7 @@ The goal of this repository is to help track spam apps in the Microsoft Store. T
 
 | Application | Link | Notes |
 |-------------|------|-------|
-| WindRAR | https://www.microsoft.com/store/productId/ | Misleading title |
+| WindRAR | https://www.microsoft.com/store/productId/9MSVVS8TVB28 | Misleading title |
 | Tutorial for Google Drive User | https://www.microsoft.com/store/productId/9P3Q1WJJ5PHB | Spam |
 | Tutorial for Bitmoji User | https://www.microsoft.com/store/productId/9NHFZVBT29GH | Spam |
 | Tutor for VPN | https://www.microsoft.com/store/productId/9NK5SG3KJTG1 | Spam |
