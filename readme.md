@@ -11,3 +11,8 @@ The goal of this repository is to help track spam apps in the Microsoft Store. T
 | Real Ebooks Reader For Kindle On Windows | https://www.microsoft.com/store/productId/9P1B3NTMVSPZ | Spam |
 | Driver For Canon Printer . | https://www.microsoft.com/store/productId/9NSPX7XVS9DB | Spam |
 | Show Hide Taskbar | https://www.microsoft.com/store/productId/9NM26HJZXGJQ | Doesn't provide any functionality that's not already in the OS |
+| Full Tutorial for WinRAR | https://www.microsoft.com/store/productId/9NXM47310B7Q | Spam |
+| Tutorial for Google Drive User | https://www.microsoft.com/store/productId/9P3Q1WJJ5PHB | Spam |
+| Tutorial for Blender 3D | https://www.microsoft.com/store/productId/9PD4R3H5D6MH | Spam |
+| Guide for Digital Calendar | https://www.microsoft.com/store/productId/9P4QMRBRBDGD | Spam |
+| Guide For Ableton Live | https://www.microsoft.com/store/productId/9P928JVK6K4N | Spam |
