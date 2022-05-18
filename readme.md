@@ -21,7 +21,6 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 | YouTube Download for Windows | [9NFMKPLRG42M](https://www.microsoft.com/store/productId/9NFMKPLRG42M) | Spam |
 | Real Ebooks Reader For Kindle On Windows | [9P1B3NTMVSPZ](https://www.microsoft.com/store/productId/9P1B3NTMVSPZ) | Spam |
 | Driver For Canon Printer . | [9NSPX7XVS9DB](https://www.microsoft.com/store/productId/9NSPX7XVS9DB) | Spam |
-| Show Hide Taskbar | [9NM26HJZXGJQ](https://www.microsoft.com/store/productId/9NM26HJZXGJQ) | Doesn't provide any functionality that's not already in the OS |
 | Full Tutorial for WinRAR | [9NXM47310B7Q](https://www.microsoft.com/store/productId/9NXM47310B7Q) | Spam |
 | Tutorial for Google Drive User | [9P3Q1WJJ5PHB](https://www.microsoft.com/store/productId/9P3Q1WJJ5PHB) | Spam |
 | Tutorial for Blender 3D | [9PD4R3H5D6MH](https://www.microsoft.com/store/productId/9PD4R3H5D6MH) | Spam |
@@ -31,16 +30,17 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 | Guide for Animal Crossing New Horizons PC | [9PGZM04RDJ58](https://www.microsoft.com/store/productId/9PGZM04RDJ58) | Spam |
 | Guide for Fall Guys : Ultimate Knockout | [9P5MVZ9JX1TJ](https://www.microsoft.com/store/productId/9P5MVZ9JX1TJ) | Spam |
 | Beginner's Guide For GarageBand. | [9NBLGGH67DC7](https://www.microsoft.com/store/productId/9NBLGGH67DC7) | Spam |
-| File Manager - File Explorer for Windows 10 | [9ND2N28DX22H](https://www.microsoft.com/store/productId/9ND2N28DX22H) | It appears to be a copy of [Windows File Manager](https://www.microsoft.com/store/productId/9P7VBBBC49RB) with blue shade and removed help menu. The app might have followed the MIT license, but charging over $10 for that feels quite unethical at best. |
-  | Driver for HP Printer | [9NFWCNTJD1KX](https://www.microsoft.com/store/productId/9NFWCNTJD1KX) | Spam |
-  | Street Earth Map Pro 3D World Globe | [9NZPW5RFTTTG](https://www.microsoft.com/store/productId/9NZPW5RFTTTG) | Misleading icon and ripoff of Google Earth |
+| Driver for HP Printer | [9NFWCNTJD1KX](https://www.microsoft.com/store/productId/9NFWCNTJD1KX) | Spam |
 | Tutorial for Adobe Illustrator | [9MX4B94D0MLZ](https://www.microsoft.com/store/productId/9MX4B94D0MLZ) | Spam |
 | Solidworks Tutor | [9N2ND0KGHQMR](https://www.microsoft.com/store/productId/9N2ND0KGHQMR) | Spam |
 | Autocad 2020 Tutor | [9PGT5WV34806](https://www.microsoft.com/store/productId/9PGT5WV34806) | Spam |
+| PDF to Excel Converter Pro | [9NGQXVNN0XMG](https://www.microsoft.com/store/productId/9NGQXVNN0XMG) | Spam |
+| File Manager - File Explorer for Windows 10 | [9ND2N28DX22H](https://www.microsoft.com/store/productId/9ND2N28DX22H) | It appears to be a copy of [Windows File Manager](https://www.microsoft.com/store/productId/9P7VBBBC49RB) with blue shade and removed help menu. The app might have followed the MIT license, but charging over $10 for that feels quite unethical at best. |
+| Show Hide Taskbar | [9NM26HJZXGJQ](https://www.microsoft.com/store/productId/9NM26HJZXGJQ) | Doesn't provide any functionality that's not already in the OS |
+ | Street Earth Map Pro 3D World Globe | [9NZPW5RFTTTG](https://www.microsoft.com/store/productId/9NZPW5RFTTTG) | Misleading icon and ripoff of Google Earth |
 | Finder - file explorer for Windows 11 | [9P09W6PH7MW6](https://www.microsoft.com/store/productId/9P09W6PH7MW6) | Duplicate of File Explorer - Tabs, ZIP, RAR, 7z for Windows 11 [9PJB9045P4ZQ](https://www.microsoft.com/store/productId/9PJB9045P4ZQ) |
 | Document Manager for Windows 11 | [9N913N4Z9JBC](https://www.microsoft.com/store/productId/9N73SJ9N94P4) | Duplicate of Document Manager for Windows 10 [9N913N4Z9JBC](https://www.microsoft.com/store/productId/9N913N4Z9JBC) |
   | vNext PDF Editor for Windows 11 | [9P51586BZKNG](https://www.microsoft.com/store/productId/9P51586BZKNG) | Duplicate of BlossX Lightroom 11 - Photo Editor [9P4WPFZ0GS16](https://www.microsoft.com/store/productId/9P4WPFZ0GS16) |
-| PDF to Excel Converter Pro | [9NGQXVNN0XMG](https://www.microsoft.com/store/productId/9NGQXVNN0XMG) | Spam |
 | 7 Zip - RAR files, Zip files | [9NCBSRQKVKVS](https://www.microsoft.com/store/productId/9NCBSRQKVKVS) | 7zip clone that costs money |
 | 7-Zip for Store | [9NT4HZPHT8BC](https://www.microsoft.com/store/productId/9NT4HZPHT8BC) | 7zip clone that costs money |
 | Cloud Drive Permission Manager | [9N5KHD73FGKH](https://www.microsoft.com/store/productId/9N5KHD73FGKH) | Misleading icon that looks like the Google Drive icon |
