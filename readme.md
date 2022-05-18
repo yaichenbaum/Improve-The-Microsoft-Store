@@ -48,3 +48,4 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 | vNext PDF Editor for Windows 11 | [9P51586BZKNG](https://www.microsoft.com/store/productId/9P51586BZKNG) | Duplicate | Duplicate of BlossX Lightroom 11 - Photo Editor [9P4WPFZ0GS16](https://www.microsoft.com/store/productId/9P4WPFZ0GS16) |
 | Ultra Screen Recorder for Free | [9N7D4XKG96KM)](https://www.microsoft.com/store/productId/9N7D4XKG96KM) | Misleading | Obs clone
 | Ultra Office for Free | [9N161BJRLC1D](https://www.microsoft.com/store/productId/9N161BJRLC1D) | Misleading | LibreOffice Clone
+| Ultra Paint | [9PHMZWPMN859](https://www.microsoft.com/store/productId/9PHMZWPMN859) | Misleading | MyPaint Clone
