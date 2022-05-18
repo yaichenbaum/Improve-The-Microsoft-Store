@@ -13,8 +13,8 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 
 | Application | Link | Notes |
 |-------------|------|-------|
-| WindRAR | https://www.microsoft.com/store/productId/9MSVVS8TVB28 | Misleading title |
-| Tutorial for Google Drive User | https://www.microsoft.com/store/productId/9P3Q1WJJ5PHB | Spam |
+| WindRAR | [9MSVVS8TVB28](https://www.microsoft.com/store/productId/9MSVVS8TVB28) | Misleading title |
+| Tutorial for Google Drive User | [9P3Q1WJJ5PHB](https://www.microsoft.com/store/productId/9P3Q1WJJ5PHB) | Spam |
 | Tutorial for Bitmoji User | https://www.microsoft.com/store/productId/9NHFZVBT29GH | Spam |
 | Tutor for VPN | https://www.microsoft.com/store/productId/9NK5SG3KJTG1 | Spam |
 | Driver Download for Canon Printer | https://www.microsoft.com/store/productId/9MVKZW06XC8B | Spam |
