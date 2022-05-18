@@ -15,7 +15,7 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 |-------------|------|-------|
 | WindRAR | [9MSVVS8TVB28](https://www.microsoft.com/store/productId/9MSVVS8TVB28) | Misleading title |
 | Tutorial for Google Drive User | [9P3Q1WJJ5PHB](https://www.microsoft.com/store/productId/9P3Q1WJJ5PHB) | Spam |
-| Tutorial for Bitmoji User | https://www.microsoft.com/store/productId/9NHFZVBT29GH | Spam |
+| Tutorial for Bitmoji User | [9NHFZVBT29GH](https://www.microsoft.com/store/productId/9NHFZVBT29GH) | Spam |
 | Tutor for VPN | https://www.microsoft.com/store/productId/9NK5SG3KJTG1 | Spam |
 | Driver Download for Canon Printer | https://www.microsoft.com/store/productId/9MVKZW06XC8B | Spam |
 | YouTube Download for Windows | https://www.microsoft.com/store/productId/9NFMKPLRG42M | Spam |
@@ -39,9 +39,9 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 | Autocad 2020 Tutor | https://www.microsoft.com/store/productId/9PGT5WV34806 | Spam |
 | Finder - file explorer for Windows 11 | https://www.microsoft.com/store/productId/9P09W6PH7MW6 | Duplicate of File Explorer - Tabs, ZIP, RAR, 7z for Windows 11 https://www.microsoft.com/store/productId/9PJB9045P4ZQ |
 | Document Manager for Windows 11 | https://www.microsoft.com/store/productId/9N73SJ9N94P4 | Duplicate of Document Manager for Windows 10 https://www.microsoft.com/store/productId/9N913N4Z9JBC |
-| vNext PDF Editor for Windows 11 | https://www.microsoft.com/store/productId/9P51586BZKNG | Duplicate of BlossX Lightroom 11 - Photo Editor https://www.microsoft.com/store/productId/9P4WPFZ0GS16 |
-| PDF to Excel Converter Pro | https://www.microsoft.com/store/productId/9NGQXVNN0XMG | Spam |
-| 7 Zip - RAR files, Zip files | https://www.microsoft.com/store/productId/9NCBSRQKVKVS | Rip off of 7zip |
-| 7-Zip for Store | https://www.microsoft.com/store/productId/9NT4HZPHT8BC | Rip off of 7zip |
-| Cloud Drive Permission Manager | https://www.microsoft.com/store/productId/9N5KHD73FGKH | Misleading icon that looks like the Google Drive icon |
-| CrystalDisk bench mark | https://www.microsoft.com/store/productId/9N7G4X4Z8XQQ | Presents itself as offical version |
+| vNext PDF Editor for Windows 11 | https://www.microsoft.com/store/productId/9P51586BZKNG | Duplicate of BlossX Lightroom 11 - Photo Editor [9P4WPFZ0GS16](https://www.microsoft.com/store/productId/9P4WPFZ0GS16) |
+| PDF to Excel Converter Pro | [9NGQXVNN0XMG](https://www.microsoft.com/store/productId/9NGQXVNN0XMG) | Spam |
+| 7 Zip - RAR files, Zip files | [9NCBSRQKVKVS](https://www.microsoft.com/store/productId/9NCBSRQKVKVS) | Rip off of 7zip |
+| 7-Zip for Store | [9NT4HZPHT8BC](https://www.microsoft.com/store/productId/9NT4HZPHT8BC) | Rip off of 7zip |
+| Cloud Drive Permission Manager | [9N5KHD73FGKH](https://www.microsoft.com/store/productId/9N5KHD73FGKH) | Misleading icon that looks like the Google Drive icon |
+| CrystalDisk bench mark | [9N7G4X4Z8XQQ](https://www.microsoft.com/store/productId/9N7G4X4Z8XQQ) | Presents itself as offical version |
