@@ -28,10 +28,10 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 | Guide for Digital Calendar | [9P4QMRBRBDGD](https://www.microsoft.com/store/productId/9P4QMRBRBDGD) | Spam |
 | Guide For Ableton Live | [9P928JVK6K4N](https://www.microsoft.com/store/productId/9P928JVK6K4N) | Spam |
 | Guide for Google Earth Pro | [9N183GKKGTVQ](https://www.microsoft.com/store/productId/9N183GKKGTVQ) | Spam |
-| Guide for Animal Crossing New Horizons PC | https://www.microsoft.com/store/productId/9PGZM04RDJ58 | Spam |
-| Guide for Fall Guys : Ultimate Knockout | https://www.microsoft.com/store/productId/9P5MVZ9JX1TJ | Spam |
-| Beginner's Guide For GarageBand. | https://www.microsoft.com/store/productId/9NBLGGH67DC7 | Spam |
-| File Manager - File Explorer for Windows 10 | https://www.microsoft.com/store/productId/9ND2N28DX22H | It appears to be a copy of [Windows File Manager](https://www.microsoft.com/store/productId/9P7VBBBC49RB) with blue shade and removed help menu. The app might have followed the MIT license, but charging over $10 for that feels quite unethical at best. |
+| Guide for Animal Crossing New Horizons PC | [9PGZM04RDJ58](https://www.microsoft.com/store/productId/9PGZM04RDJ58) | Spam |
+| Guide for Fall Guys : Ultimate Knockout | [9P5MVZ9JX1TJ](https://www.microsoft.com/store/productId/9P5MVZ9JX1TJ) | Spam |
+| Beginner's Guide For GarageBand. | [9NBLGGH67DC7](https://www.microsoft.com/store/productId/9NBLGGH67DC7) | Spam |
+| File Manager - File Explorer for Windows 10 | [9ND2N28DX22H](https://www.microsoft.com/store/productId/9ND2N28DX22H) | It appears to be a copy of [Windows File Manager](https://www.microsoft.com/store/productId/9P7VBBBC49RB) with blue shade and removed help menu. The app might have followed the MIT license, but charging over $10 for that feels quite unethical at best. |
   | Driver for HP Printer | [9NFWCNTJD1KX](https://www.microsoft.com/store/productId/9NFWCNTJD1KX) | Spam |
   | Street Earth Map Pro 3D World Globe | [9NZPW5RFTTTG](https://www.microsoft.com/store/productId/9NZPW5RFTTTG) | Misleading icon and ripoff of Google Earth |
 | Tutorial for Adobe Illustrator | [9MX4B94D0MLZ](https://www.microsoft.com/store/productId/9MX4B94D0MLZ) | Spam |
