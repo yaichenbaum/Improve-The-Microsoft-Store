@@ -41,7 +41,7 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 | Document Manager for Windows 11 | [9N913N4Z9JBC](https://www.microsoft.com/store/productId/9N73SJ9N94P4) | Duplicate of Document Manager for Windows 10 [9N913N4Z9JBC](https://www.microsoft.com/store/productId/9N913N4Z9JBC) |
   | vNext PDF Editor for Windows 11 | [9P51586BZKNG](https://www.microsoft.com/store/productId/9P51586BZKNG) | Duplicate of BlossX Lightroom 11 - Photo Editor [9P4WPFZ0GS16](https://www.microsoft.com/store/productId/9P4WPFZ0GS16) |
 | PDF to Excel Converter Pro | [9NGQXVNN0XMG](https://www.microsoft.com/store/productId/9NGQXVNN0XMG) | Spam |
-| 7 Zip - RAR files, Zip files | [9NCBSRQKVKVS](https://www.microsoft.com/store/productId/9NCBSRQKVKVS) | Rip off of 7zip |
-| 7-Zip for Store | [9NT4HZPHT8BC](https://www.microsoft.com/store/productId/9NT4HZPHT8BC) | Rip off of 7zip |
+| 7 Zip - RAR files, Zip files | [9NCBSRQKVKVS](https://www.microsoft.com/store/productId/9NCBSRQKVKVS) | 7zip clone that costs money |
+| 7-Zip for Store | [9NT4HZPHT8BC](https://www.microsoft.com/store/productId/9NT4HZPHT8BC) | 7zip clone that costs money |
 | Cloud Drive Permission Manager | [9N5KHD73FGKH](https://www.microsoft.com/store/productId/9N5KHD73FGKH) | Misleading icon that looks like the Google Drive icon |
 | CrystalDisk bench mark | [9N7G4X4Z8XQQ](https://www.microsoft.com/store/productId/9N7G4X4Z8XQQ) | Presents itself as offical version |
