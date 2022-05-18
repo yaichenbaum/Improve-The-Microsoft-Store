@@ -32,14 +32,14 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 | Guide for Fall Guys : Ultimate Knockout | https://www.microsoft.com/store/productId/9P5MVZ9JX1TJ | Spam |
 | Beginner's Guide For GarageBand. | https://www.microsoft.com/store/productId/9NBLGGH67DC7 | Spam |
 | File Manager - File Explorer for Windows 10 | https://www.microsoft.com/store/productId/9ND2N28DX22H | It appears to be a copy of [Windows File Manager](https://www.microsoft.com/store/productId/9P7VBBBC49RB) with blue shade and removed help menu. The app might have followed the MIT license, but charging over $10 for that feels quite unethical at best. |
-| Driver for HP Printer | https://www.microsoft.com/store/productId/9NFWCNTJD1KX | Spam |
-| Street Earth Map Pro 3D World Globe | https://www.microsoft.com/store/productId/9NZPW5RFTTTG | Misleading icon and ripoff of Google Earth |
-| Tutorial for Adobe Illustrator | https://www.microsoft.com/store/productId/9MX4B94D0MLZ | Spam |
-| Solidworks Tutor | https://www.microsoft.com/store/productId/9N2ND0KGHQMR | Spam |
-| Autocad 2020 Tutor | https://www.microsoft.com/store/productId/9PGT5WV34806 | Spam |
-| Finder - file explorer for Windows 11 | https://www.microsoft.com/store/productId/9P09W6PH7MW6 | Duplicate of File Explorer - Tabs, ZIP, RAR, 7z for Windows 11 https://www.microsoft.com/store/productId/9PJB9045P4ZQ |
-| Document Manager for Windows 11 | https://www.microsoft.com/store/productId/9N73SJ9N94P4 | Duplicate of Document Manager for Windows 10 https://www.microsoft.com/store/productId/9N913N4Z9JBC |
-| vNext PDF Editor for Windows 11 | https://www.microsoft.com/store/productId/9P51586BZKNG | Duplicate of BlossX Lightroom 11 - Photo Editor [9P4WPFZ0GS16](https://www.microsoft.com/store/productId/9P4WPFZ0GS16) |
+  | Driver for HP Printer | [9NFWCNTJD1KX](https://www.microsoft.com/store/productId/9NFWCNTJD1KX) | Spam |
+  | Street Earth Map Pro 3D World Globe | [9NZPW5RFTTTG](https://www.microsoft.com/store/productId/9NZPW5RFTTTG) | Misleading icon and ripoff of Google Earth |
+| Tutorial for Adobe Illustrator | [9MX4B94D0MLZ](https://www.microsoft.com/store/productId/9MX4B94D0MLZ) | Spam |
+| Solidworks Tutor | [9N2ND0KGHQMR](https://www.microsoft.com/store/productId/9N2ND0KGHQMR) | Spam |
+| Autocad 2020 Tutor | [9PGT5WV34806](https://www.microsoft.com/store/productId/9PGT5WV34806) | Spam |
+| Finder - file explorer for Windows 11 | [9P09W6PH7MW6](https://www.microsoft.com/store/productId/9P09W6PH7MW6) | Duplicate of File Explorer - Tabs, ZIP, RAR, 7z for Windows 11 [9PJB9045P4ZQ](https://www.microsoft.com/store/productId/9PJB9045P4ZQ) |
+| Document Manager for Windows 11 | [9N913N4Z9JBC](https://www.microsoft.com/store/productId/9N73SJ9N94P4) | Duplicate of Document Manager for Windows 10 [9N913N4Z9JBC](https://www.microsoft.com/store/productId/9N913N4Z9JBC) |
+  | vNext PDF Editor for Windows 11 | [9P51586BZKNG](https://www.microsoft.com/store/productId/9P51586BZKNG) | Duplicate of BlossX Lightroom 11 - Photo Editor [9P4WPFZ0GS16](https://www.microsoft.com/store/productId/9P4WPFZ0GS16) |
 | PDF to Excel Converter Pro | [9NGQXVNN0XMG](https://www.microsoft.com/store/productId/9NGQXVNN0XMG) | Spam |
 | 7 Zip - RAR files, Zip files | [9NCBSRQKVKVS](https://www.microsoft.com/store/productId/9NCBSRQKVKVS) | Rip off of 7zip |
 | 7-Zip for Store | [9NT4HZPHT8BC](https://www.microsoft.com/store/productId/9NT4HZPHT8BC) | Rip off of 7zip |
