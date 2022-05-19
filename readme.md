@@ -41,11 +41,11 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 | Street Earth Map Pro 3D World Globe | [9NZPW5RFTTTG](https://www.microsoft.com/store/productId/9NZPW5RFTTTG) | Misleading | Misleading icon and ripoff of Google Earth |
 | CrystalDisk bench mark | [9N7G4X4Z8XQQ](https://www.microsoft.com/store/productId/9N7G4X4Z8XQQ) | Misleading | Presents itself as offical version |
 | File Manager - File Explorer for Windows 10 | [9ND2N28DX22H](https://www.microsoft.com/store/productId/9ND2N28DX22H) | Misleading | It appears to be a copy of [Windows File Manager](https://www.microsoft.com/store/productId/9P7VBBBC49RB) with blue shade and removed help menu. The app might have followed the MIT license, but charging over $10 for that feels quite unethical at best. |
+| Ultra Screen Recorder for Free | [9N7D4XKG96KM)](https://www.microsoft.com/store/productId/9N7D4XKG96KM) | Misleading | Obs clone |
+| Ultra Office for Free | [9N161BJRLC1D](https://www.microsoft.com/store/productId/9N161BJRLC1D) | Misleading | LibreOffice Clone |
+| Ultra Paint | [9PHMZWPMN859](https://www.microsoft.com/store/productId/9PHMZWPMN859) | Misleading | MyPaint Clone |
 | Show Hide Taskbar | [9NM26HJZXGJQ](https://www.microsoft.com/store/productId/9NM26HJZXGJQ) | Unnecessary | Doesn't provide any functionality that's not already in the OS | 
 | Complete Shutdown | [9MWJ9M6QVJF0](https://apps.microsoft.com/store/detail/productId/9MWJ9M6QVJF0) |  Unnecessary | Doesn't provide any functionality that's not already in the OS | 
 | Finder - file explorer for Windows 11 | [9P09W6PH7MW6](https://www.microsoft.com/store/productId/9P09W6PH7MW6) | Duplicate | Duplicate of File Explorer - Tabs, ZIP, RAR, 7z for Windows 11 [9PJB9045P4ZQ](https://www.microsoft.com/store/productId/9PJB9045P4ZQ) | |
 | Document Manager for Windows 11 | [9N913N4Z9JBC](https://www.microsoft.com/store/productId/9N73SJ9N94P4) | Duplicate | Duplicate of Document Manager for Windows 10 [9N913N4Z9JBC](https://www.microsoft.com/store/productId/9N913N4Z9JBC) |
 | vNext PDF Editor for Windows 11 | [9P51586BZKNG](https://www.microsoft.com/store/productId/9P51586BZKNG) | Duplicate | Duplicate of BlossX Lightroom 11 - Photo Editor [9P4WPFZ0GS16](https://www.microsoft.com/store/productId/9P4WPFZ0GS16) |
-| Ultra Screen Recorder for Free | [9N7D4XKG96KM)](https://www.microsoft.com/store/productId/9N7D4XKG96KM) | Misleading | Obs clone
-| Ultra Office for Free | [9N161BJRLC1D](https://www.microsoft.com/store/productId/9N161BJRLC1D) | Misleading | LibreOffice Clone
-| Ultra Paint | [9PHMZWPMN859](https://www.microsoft.com/store/productId/9PHMZWPMN859) | Misleading | MyPaint Clone
