@@ -1,3 +1,4 @@
+# Introduction
 The goal of this repository is to help track spam apps in the Microsoft Store. This list will be updated over time. We'll also come back and remove app names from this list once they're removed from the store. Pull requests are welcome.
 
 # What counts as spam?
@@ -11,6 +12,7 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 - presents itself as free but requires the user to pay to access the features once downloaded
 - fork of an oss project that doesn't add any value over the original and charges unsuspecting users
 
+# Tracker
 | Application | Link | Reason | Notes |
 |-------------|------|--------|-------|
 | Tutorial for Google Drive User | [9P3Q1WJJ5PHB](https://www.microsoft.com/store/productId/9P3Q1WJJ5PHB) | Spam | |
