@@ -41,7 +41,7 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 | Street Earth Map Pro 3D World Globe | [9NZPW5RFTTTG](https://www.microsoft.com/store/productId/9NZPW5RFTTTG) | Misleading | Misleading icon and ripoff of Google Earth |
 | CrystalDisk bench mark | [9N7G4X4Z8XQQ](https://www.microsoft.com/store/productId/9N7G4X4Z8XQQ) | Misleading | Presents itself as offical version |
 | File Manager - File Explorer for Windows 10 | [9ND2N28DX22H](https://www.microsoft.com/store/productId/9ND2N28DX22H) | Misleading | It appears to be a copy of [Windows File Manager](https://www.microsoft.com/store/productId/9P7VBBBC49RB) with blue shade and removed help menu. The app might have followed the MIT license, but charging over $10 for that feels quite unethical at best. |
-| Ultra Screen Recorder for Free | [9N7D4XKG96KM)](https://www.microsoft.com/store/productId/9N7D4XKG96KM) | Misleading | Obs clone |
+| Ultra Screen Recorder for Free | [9N7D4XKG96KM)](https://www.microsoft.com/store/productId/9N7D4XKG96KM) | Misleading | Obs clone [XPFFH613W8V6LV](https://apps.microsoft.com/store/detail/obs-studio/XPFFH613W8V6LV)|
 | Ultra Office for Free | [9N161BJRLC1D](https://www.microsoft.com/store/productId/9N161BJRLC1D) | Misleading | LibreOffice Clone |
 | Ultra Paint | [9PHMZWPMN859](https://www.microsoft.com/store/productId/9PHMZWPMN859) | Misleading | MyPaint Clone |
 | Show Hide Taskbar | [9NM26HJZXGJQ](https://www.microsoft.com/store/productId/9NM26HJZXGJQ) | Unnecessary | Doesn't provide any functionality that's not already in the OS | 
