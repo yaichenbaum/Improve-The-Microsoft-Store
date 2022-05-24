@@ -1,7 +1,7 @@
 # Introduction
 The goal of this repository is to help track spam apps in the Microsoft Store. This list will be updated over time. We'll also come back and remove app names from this list once they're removed from the store. Pull requests are welcome.
 
-Apps can be reported directly from the Microsoft Store but we recommend adding them to this list as well so that they can be tracked. IP and copyright owners can follow the follow the instructions found here: https://www.microsoft.com/info/Marketplace.aspx.
+Apps can be reported directly from the Microsoft Store but we recommend adding them to this list as well so that they can be tracked. IP and copyright owners can follow the instructions found here: https://www.microsoft.com/info/Marketplace.aspx.
 
 # What counts as spam?
 It's a bit of a grey area but for the sake of this list we're going to define it as apps that are misleading or serve no purpose. Apps may be considered spam if they meet this criteria but each app is different and will be reviewed before being added to the list.
