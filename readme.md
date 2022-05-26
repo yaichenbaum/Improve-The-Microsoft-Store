@@ -14,6 +14,9 @@ It's a bit of a grey area but for the sake of this list we're going to define it
 - presents itself as free but requires the user to pay to access the features once downloaded
 - fork of an oss project that doesn't add any value over the original and charges unsuspecting users
 
+# Contributing to this list
+Contributions are welcome. Please note that the list is sorted by reason so please try to stick with this pattern when adding a new app.
+
 # Tracker
 | Application | Link | Reason | Notes |
 |-------------|------|--------|-------|
