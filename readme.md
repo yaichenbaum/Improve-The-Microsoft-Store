@@ -54,6 +54,7 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | Quick Time Play | [9N79MJSFVQH2](https://www.microsoft.com/store/productId/9N79MJSFVQH2) | Misleading | Uses Apple's QuickTime logo to get people to believe this is the official QuickTime player. |
 | Ultra Office for Free | [9N161BJRLC1D](https://www.microsoft.com/store/productId/9N161BJRLC1D) | Misleading | LibreOffice Clone |
 | Ultra Paint | [9PHMZWPMN859](https://www.microsoft.com/store/productId/9PHMZWPMN859) | Misleading | MyPaint Clone |
+| Font Downloads for Discord | [9N5PK2WG3QQ4](https://www.microsoft.com/store/productId/9N5PK2WG3QQ4) | Misleading | Based on screenshots this app uses multiple companies logos either for the app icon of as part of the app GUI. It is also not possible to download a font for Discord (whatever that means). | 
 | Show Hide Taskbar | [9NM26HJZXGJQ](https://www.microsoft.com/store/productId/9NM26HJZXGJQ) | Unnecessary | Doesn't provide any functionality that's not already in the OS | 
 | Complete Shutdown | [9MWJ9M6QVJF0](https://apps.microsoft.com/store/detail/productId/9MWJ9M6QVJF0) |  Unnecessary | Doesn't provide any functionality that's not already in the OS | 
 | Finder - file explorer for Windows 11 | [9P09W6PH7MW6](https://www.microsoft.com/store/productId/9P09W6PH7MW6) | Duplicate | Duplicate of File Explorer - Tabs, ZIP, RAR, 7z for Windows 11 [9PJB9045P4ZQ](https://www.microsoft.com/store/productId/9PJB9045P4ZQ) | |
