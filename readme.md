@@ -54,6 +54,7 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | Quick Time Play | [9N79MJSFVQH2](https://www.microsoft.com/store/productId/9N79MJSFVQH2) | Misleading | Uses Apple's QuickTime logo to get people to believe this is the official QuickTime player. |
 | Ultra Office for Free | [9N161BJRLC1D](https://www.microsoft.com/store/productId/9N161BJRLC1D) | Misleading | LibreOffice Clone |
 | Ultra Paint | [9PHMZWPMN859](https://www.microsoft.com/store/productId/9PHMZWPMN859) | Misleading | MyPaint Clone |
+| Font Downloads for Discord | [9N5PK2WG3QQ4](https://www.microsoft.com/store/productId/9N5PK2WG3QQ4) | Misleading | Based on screenshots this app uses multiple companies logos either for the app icon of as part of the app GUI. It is also not possible to download a font for Discord (whatever that means). | 
 | realone player | [9NNPJSTTCSRH](https://www.microsoft.com/store/productId/9NNPJSTTCSRH) | Misleading | Uses the old RealPlayer logo to trick people to believe this is an official RealPlayer app. |
 | PuTTY Pro - SSH and telnet client | [9NZKN8K3M111](https://www.microsoft.com/store/productId/9NZKN8K3M111) | Misleading | Clone of PuTTY. Claims to be a "PRO" version despite offering the same functionaltiy. |
 | Show Hide Taskbar | [9NM26HJZXGJQ](https://www.microsoft.com/store/productId/9NM26HJZXGJQ) | Unnecessary | Doesn't provide any functionality that's not already in the OS | 
