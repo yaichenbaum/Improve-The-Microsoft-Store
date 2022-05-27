@@ -40,7 +40,9 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | Solidworks Tutor | [9N2ND0KGHQMR](https://www.microsoft.com/store/productId/9N2ND0KGHQMR) | Spam | |
 | Autocad 2020 Tutor | [9PGT5WV34806](https://www.microsoft.com/store/productId/9PGT5WV34806) | Spam | |
 | PDF to Excel Converter Pro | [9NGQXVNN0XMG](https://www.microsoft.com/store/productId/9NGQXVNN0XMG) | Spam | |
+| Connect to AirPods Pro | [9NZ31TCFPCBT](https://www.microsoft.com/store/productId/9NZ31TCFPCBT) | Spam | Tricks users into believing that they need to buy this app to connect their AirPods Pro. This functionality is already built into Windows. |
 | WindRAR | [9MSVVS8TVB28](https://www.microsoft.com/store/productId/9MSVVS8TVB28) | Misleading | |
+| 7-Zip Pro | [9NRLP032XWRR](https://www.microsoft.com/store/productId/9NRLP032XWRR) | Misleading | 7-Zip clone that costs money. Claims it is free in the description despite charging money. |
 | 7 Zip - RAR files, Zip files | [9NCBSRQKVKVS](https://www.microsoft.com/store/productId/9NCBSRQKVKVS) | Misleading | 7zip clone that costs money |
 | 7-Zip for Store | [9NT4HZPHT8BC](https://www.microsoft.com/store/productId/9NT4HZPHT8BC) | Misleading | 7zip clone that costs money |
 | Cloud Drive Permission Manager | [9N5KHD73FGKH](https://www.microsoft.com/store/productId/9N5KHD73FGKH) | Misleading | Misleading icon that looks like the Google Drive icon |
@@ -48,6 +50,8 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | CrystalDisk bench mark | [9N7G4X4Z8XQQ](https://www.microsoft.com/store/productId/9N7G4X4Z8XQQ) | Misleading | Presents itself as offical version |
 | File Manager - File Explorer for Windows 10 | [9ND2N28DX22H](https://www.microsoft.com/store/productId/9ND2N28DX22H) | Misleading | It appears to be a copy of [Windows File Manager](https://www.microsoft.com/store/productId/9P7VBBBC49RB) with blue shade and removed help menu. The app might have followed the MIT license, but charging over $10 for that feels quite unethical at best. |
 | Ultra Screen Recorder for Free | [9N7D4XKG96KM)](https://www.microsoft.com/store/productId/9N7D4XKG96KM) | Misleading | Obs clone [XPFFH613W8V6LV](https://apps.microsoft.com/store/detail/obs-studio/XPFFH613W8V6LV)|
+| GIMP EASY | [9P3GS1PX4KKG](https://www.microsoft.com/store/productId/9P3GS1PX4KKG) | Misleading | GIMP clone that costs money. |
+| Quick Time Play | [9N79MJSFVQH2](https://www.microsoft.com/store/productId/9N79MJSFVQH2) | Misleading | Uses Apple's QuickTime logo to get people to believe this is the official QuickTime player. |
 | Ultra Office for Free | [9N161BJRLC1D](https://www.microsoft.com/store/productId/9N161BJRLC1D) | Misleading | LibreOffice Clone |
 | Ultra Paint | [9PHMZWPMN859](https://www.microsoft.com/store/productId/9PHMZWPMN859) | Misleading | MyPaint Clone |
 | Show Hide Taskbar | [9NM26HJZXGJQ](https://www.microsoft.com/store/productId/9NM26HJZXGJQ) | Unnecessary | Doesn't provide any functionality that's not already in the OS | 
@@ -55,7 +59,3 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | Finder - file explorer for Windows 11 | [9P09W6PH7MW6](https://www.microsoft.com/store/productId/9P09W6PH7MW6) | Duplicate | Duplicate of File Explorer - Tabs, ZIP, RAR, 7z for Windows 11 [9PJB9045P4ZQ](https://www.microsoft.com/store/productId/9PJB9045P4ZQ) | |
 | Document Manager for Windows 11 | [9N913N4Z9JBC](https://www.microsoft.com/store/productId/9N73SJ9N94P4) | Duplicate | Duplicate of Document Manager for Windows 10 [9N913N4Z9JBC](https://www.microsoft.com/store/productId/9N913N4Z9JBC) |
 | vNext PDF Editor for Windows 11 | [9P51586BZKNG](https://www.microsoft.com/store/productId/9P51586BZKNG) | Duplicate | Duplicate of BlossX Lightroom 11 - Photo Editor [9P4WPFZ0GS16](https://www.microsoft.com/store/productId/9P4WPFZ0GS16) |
-| GIMP EASY | [9P3GS1PX4KKG](https://www.microsoft.com/store/productId/9P3GS1PX4KKG) | Misleading | GIMP clone that costs money. |
-| Quick Time Play | [9N79MJSFVQH2](https://www.microsoft.com/store/productId/9N79MJSFVQH2) | Misleading | Uses Apple's QuickTime logo to get people to believe this is the official QuickTime player. |
-| Connect to AirPods Pro | [9NZ31TCFPCBT](https://www.microsoft.com/store/productId/9NZ31TCFPCBT) | Spam | Tricks users into believing that they need to buy this app to connect their AirPods Pro. This functionality is already built into Windows. |
-| 7-Zip Pro | [9NRLP032XWRR](https://www.microsoft.com/store/productId/9NRLP032XWRR) | Misleading | 7-Zip clone that costs money. Claims it is free in the description despite charging money. |
