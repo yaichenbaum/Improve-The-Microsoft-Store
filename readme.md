@@ -52,6 +52,7 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | Ultra Screen Recorder for Free | [9N7D4XKG96KM)](https://www.microsoft.com/store/productId/9N7D4XKG96KM) | Misleading | Obs clone [XPFFH613W8V6LV](https://apps.microsoft.com/store/detail/obs-studio/XPFFH613W8V6LV)|
 | GIMP EASY | [9P3GS1PX4KKG](https://www.microsoft.com/store/productId/9P3GS1PX4KKG) | Misleading | GIMP clone that costs money. |
 | Quick Time Play | [9N79MJSFVQH2](https://www.microsoft.com/store/productId/9N79MJSFVQH2) | Misleading | Uses Apple's QuickTime logo to get people to believe this is the official QuickTime player. |
+| Word Converter - 1 Click Word Convert | [9MV17TJM3L8D](https://www.microsoft.com/store/productId/9MV17TJM3L8D) | Misleading | Uses the Microsoft Word logo |
 | Ultra Office for Free | [9N161BJRLC1D](https://www.microsoft.com/store/productId/9N161BJRLC1D) | Misleading | LibreOffice Clone |
 | Ultra Paint | [9PHMZWPMN859](https://www.microsoft.com/store/productId/9PHMZWPMN859) | Misleading | MyPaint Clone |
 | Font Downloads for Discord | [9N5PK2WG3QQ4](https://www.microsoft.com/store/productId/9N5PK2WG3QQ4) | Misleading | Based on screenshots this app uses multiple companies logos either for the app icon of as part of the app GUI. It is also not possible to download a font for Discord (whatever that means). | 
@@ -59,6 +60,7 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | PuTTY Pro - SSH and telnet client | [9NZKN8K3M111](https://www.microsoft.com/store/productId/9NZKN8K3M111) | Misleading | Clone of PuTTY. Claims to be a "PRO" version despite offering the same functionaltiy. |
 | News Reader for BBC News | [9NQ9JCP3DR1R](https://www.microsoft.com/store/productId/9NQ9JCP3DR1R) | Misleading | App logo makes it look like official app |
 | Unofficial News Reader for CNN | [9N2810CK45SX](https://www.microsoft.com/store/productId/9N2810CK45SX) | Misleading | App name clarifies it's unofficial but the logo is misleading |
+| All-in-One Video Meeting for Teams| [9PCJ9DLJ0JFN](https://www.microsoft.com/store/productId/9PCJ9DLJ0JFN) | Misleading | Uses Microsoft Teams logo |
 | Show Hide Taskbar | [9NM26HJZXGJQ](https://www.microsoft.com/store/productId/9NM26HJZXGJQ) | Unnecessary | Doesn't provide any functionality that's not already in the OS | 
 | Complete Shutdown | [9MWJ9M6QVJF0](https://apps.microsoft.com/store/detail/productId/9MWJ9M6QVJF0) |  Unnecessary | Doesn't provide any functionality that's not already in the OS | 
 | Finder - file explorer for Windows 11 | [9P09W6PH7MW6](https://www.microsoft.com/store/productId/9P09W6PH7MW6) | Duplicate | Duplicate of File Explorer - Tabs, ZIP, RAR, 7z for Windows 11 [9PJB9045P4ZQ](https://www.microsoft.com/store/productId/9PJB9045P4ZQ) | |
