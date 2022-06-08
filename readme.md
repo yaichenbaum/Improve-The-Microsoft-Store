@@ -20,21 +20,19 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 # Tracker
 | Application | Link | Reason | Notes | Publisher |
 |-------------|------|--------|-------|-----------|
-| Tutorial for Google Drive User | [9P3Q1WJJ5PHB](https://www.microsoft.com/store/productId/9P3Q1WJJ5PHB) | Spam | | |
-| Tutorial for Bitmoji User | [9NHFZVBT29GH](https://www.microsoft.com/store/productId/9NHFZVBT29GH) | Spam | | |
-| Tutor for VPN | [9NK5SG3KJTG1](https://www.microsoft.com/store/productId/9NK5SG3KJTG1) | Spam | | |
-| Driver Download for Canon Printer | [9MVKZW06XC8B](https://www.microsoft.com/store/productId/9MVKZW06XC8B) | Spam | | |
-| YouTube Download for Windows | [9NFMKPLRG42M](https://www.microsoft.com/store/productId/9NFMKPLRG42M) | Spam | | |
-| Real Ebooks Reader For Kindle On Windows | [9P1B3NTMVSPZ](https://www.microsoft.com/store/productId/9P1B3NTMVSPZ) | Spam | | |
-| Driver For Canon Printer . | [9NSPX7XVS9DB](https://www.microsoft.com/store/productId/9NSPX7XVS9DB) | Spam | | |
-| Tutorial for Google Drive User | [9P3Q1WJJ5PHB](https://www.microsoft.com/store/productId/9P3Q1WJJ5PHB) | Spam | | |
-| Tutorial for Blender 3D | [9PD4R3H5D6MH](https://www.microsoft.com/store/productId/9PD4R3H5D6MH) | Spam | | |
-| Guide for Digital Calendar | [9P4QMRBRBDGD](https://www.microsoft.com/store/productId/9P4QMRBRBDGD) | Spam | | |
-| Guide For Ableton Live | [9P928JVK6K4N](https://www.microsoft.com/store/productId/9P928JVK6K4N) | Spam | | |
-| Guide for Google Earth Pro | [9N183GKKGTVQ](https://www.microsoft.com/store/productId/9N183GKKGTVQ) | Spam | | |
-| Guide for Animal Crossing New Horizons PC | [9PGZM04RDJ58](https://www.microsoft.com/store/productId/9PGZM04RDJ58) | Spam | | |
-| Guide for Fall Guys : Ultimate Knockout | [9P5MVZ9JX1TJ](https://www.microsoft.com/store/productId/9P5MVZ9JX1TJ) | Spam | | |
-| Beginner's Guide For GarageBand. | [9NBLGGH67DC7](https://www.microsoft.com/store/productId/9NBLGGH67DC7) | Spam | | |
+| Tutorial for Bitmoji User | [9NHFZVBT29GH](https://www.microsoft.com/store/productId/9NHFZVBT29GH) | Spam | | Chiu Lab |
+| Tutor for VPN | [9NK5SG3KJTG1](https://www.microsoft.com/store/productId/9NK5SG3KJTG1) | Spam | | Chiu Lab |
+| Driver Download for Canon Printer | [9MVKZW06XC8B](https://www.microsoft.com/store/productId/9MVKZW06XC8B) | Spam | | Software Driver Support |
+| YouTube Download for Windows | [9NFMKPLRG42M](https://www.microsoft.com/store/productId/9NFMKPLRG42M) | Spam | | Marabelove |
+| Real Ebooks Reader For Kindle On Windows | [9P1B3NTMVSPZ](https://www.microsoft.com/store/productId/9P1B3NTMVSPZ) | Spam | | Marabelove |
+| Driver For Canon Printer . | [9NSPX7XVS9DB](https://www.microsoft.com/store/productId/9NSPX7XVS9DB) | Spam | | Hanni studio |
+| Tutorial for Blender 3D | [9PD4R3H5D6MH](https://www.microsoft.com/store/productId/9PD4R3H5D6MH) | Spam | | Shek APP |
+| Guide for Digital Calendar | [9P4QMRBRBDGD](https://www.microsoft.com/store/productId/9P4QMRBRBDGD) | Spam | | Shek APP |
+| Guide For Ableton Live | [9P928JVK6K4N](https://www.microsoft.com/store/productId/9P928JVK6K4N) | Spam | | Shek APP |
+| Guide for Google Earth Pro | [9N183GKKGTVQ](https://www.microsoft.com/store/productId/9N183GKKGTVQ) | Spam | | rpsapps |
+| Guide for Animal Crossing New Horizons PC | [9PGZM04RDJ58](https://www.microsoft.com/store/productId/9PGZM04RDJ58) | Spam | | rpsapps |
+| Guide for Fall Guys : Ultimate Knockout | [9P5MVZ9JX1TJ](https://www.microsoft.com/store/productId/9P5MVZ9JX1TJ) | Spam | | rpsapps |
+| Beginner's Guide For GarageBand. | [9NBLGGH67DC7](https://www.microsoft.com/store/productId/9NBLGGH67DC7) | Spam | | macProVideo.com |
 | Driver for HP Printer | [9NFWCNTJD1KX](https://www.microsoft.com/store/productId/9NFWCNTJD1KX) | Spam | |
 | Tutorial for Adobe Illustrator | [9MX4B94D0MLZ](https://www.microsoft.com/store/productId/9MX4B94D0MLZ) | Spam | | |
 | Solidworks Tutor | [9N2ND0KGHQMR](https://www.microsoft.com/store/productId/9N2ND0KGHQMR) | Spam | | |
