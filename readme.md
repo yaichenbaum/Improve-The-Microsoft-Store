@@ -33,12 +33,12 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | Guide for Animal Crossing New Horizons PC | [9PGZM04RDJ58](https://www.microsoft.com/store/productId/9PGZM04RDJ58) | Spam | | rpsapps |
 | Guide for Fall Guys : Ultimate Knockout | [9P5MVZ9JX1TJ](https://www.microsoft.com/store/productId/9P5MVZ9JX1TJ) | Spam | | rpsapps |
 | Beginner's Guide For GarageBand. | [9NBLGGH67DC7](https://www.microsoft.com/store/productId/9NBLGGH67DC7) | Spam | | macProVideo.com |
-| Driver for HP Printer | [9NFWCNTJD1KX](https://www.microsoft.com/store/productId/9NFWCNTJD1KX) | Spam | |
-| Tutorial for Adobe Illustrator | [9MX4B94D0MLZ](https://www.microsoft.com/store/productId/9MX4B94D0MLZ) | Spam | | |
-| Solidworks Tutor | [9N2ND0KGHQMR](https://www.microsoft.com/store/productId/9N2ND0KGHQMR) | Spam | | |
-| Autocad 2020 Tutor | [9PGT5WV34806](https://www.microsoft.com/store/productId/9PGT5WV34806) | Spam | | |
-| PDF to Excel Converter Pro | [9NGQXVNN0XMG](https://www.microsoft.com/store/productId/9NGQXVNN0XMG) | Spam | | |
-| Connect to AirPods Pro | [9NZ31TCFPCBT](https://www.microsoft.com/store/productId/9NZ31TCFPCBT) | Spam | Tricks users into believing that they need to buy this app to connect their AirPods Pro. This functionality is already built into Windows. | |
+| Driver for HP Printer | [9NFWCNTJD1KX](https://www.microsoft.com/store/productId/9NFWCNTJD1KX) | Spam | RRT Software |
+| Tutorial for Adobe Illustrator | [9MX4B94D0MLZ](https://www.microsoft.com/store/productId/9MX4B94D0MLZ) | Spam | | syncoinapp |
+| Solidworks Tutor | [9N2ND0KGHQMR](https://www.microsoft.com/store/productId/9N2ND0KGHQMR) | Spam | | syncoinapp |
+| Autocad 2020 Tutor | [9PGT5WV34806](https://www.microsoft.com/store/productId/9PGT5WV34806) | Spam | | syncoinapp |
+| PDF to Excel Converter Pro | [9NGQXVNN0XMG](https://www.microsoft.com/store/productId/9NGQXVNN0XMG) | Spam | | Lockie studio |
+| Connect to AirPods Pro | [9NZ31TCFPCBT](https://www.microsoft.com/store/productId/9NZ31TCFPCBT) | Spam | Tricks users into believing that they need to buy this app to connect their AirPods Pro. This functionality is already built into Windows. | Lockie studio |
 | WindRAR | [9MSVVS8TVB28](https://www.microsoft.com/store/productId/9MSVVS8TVB28) | Misleading | | |
 | 7-Zip Pro | [9NRLP032XWRR](https://www.microsoft.com/store/productId/9NRLP032XWRR) | Misleading | 7-Zip clone that costs money. Claims it is free in the description despite charging money. | |
 | 7 Zip - RAR files, Zip files | [9NCBSRQKVKVS](https://www.microsoft.com/store/productId/9NCBSRQKVKVS) | Misleading | 7zip clone that costs money | |
