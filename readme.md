@@ -33,7 +33,7 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | Guide for Animal Crossing New Horizons PC | [9PGZM04RDJ58](https://www.microsoft.com/store/productId/9PGZM04RDJ58) | Spam | | rpsapps |
 | Guide for Fall Guys : Ultimate Knockout | [9P5MVZ9JX1TJ](https://www.microsoft.com/store/productId/9P5MVZ9JX1TJ) | Spam | | rpsapps |
 | Beginner's Guide For GarageBand. | [9NBLGGH67DC7](https://www.microsoft.com/store/productId/9NBLGGH67DC7) | Spam | | macProVideo.com |
-| Driver for HP Printer | [9NFWCNTJD1KX](https://www.microsoft.com/store/productId/9NFWCNTJD1KX) | Spam | RRT Software |
+| Driver for HP Printer | [9NFWCNTJD1KX](https://www.microsoft.com/store/productId/9NFWCNTJD1KX) | Spam | | RRT Software |
 | Tutorial for Adobe Illustrator | [9MX4B94D0MLZ](https://www.microsoft.com/store/productId/9MX4B94D0MLZ) | Spam | | syncoinapp |
 | Solidworks Tutor | [9N2ND0KGHQMR](https://www.microsoft.com/store/productId/9N2ND0KGHQMR) | Spam | | syncoinapp |
 | Autocad 2020 Tutor | [9PGT5WV34806](https://www.microsoft.com/store/productId/9PGT5WV34806) | Spam | | syncoinapp |
