@@ -39,14 +39,13 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | Autocad 2020 Tutor | [9PGT5WV34806](https://www.microsoft.com/store/productId/9PGT5WV34806) | Spam | | syncoinapp |
 | PDF to Excel Converter Pro | [9NGQXVNN0XMG](https://www.microsoft.com/store/productId/9NGQXVNN0XMG) | Spam | | Lockie studio |
 | Connect to AirPods Pro | [9NZ31TCFPCBT](https://www.microsoft.com/store/productId/9NZ31TCFPCBT) | Spam | Tricks users into believing that they need to buy this app to connect their AirPods Pro. This functionality is already built into Windows. | Lockie studio |
-| WindRAR | [9MSVVS8TVB28](https://www.microsoft.com/store/productId/9MSVVS8TVB28) | Misleading | | |
-| 7-Zip Pro | [9NRLP032XWRR](https://www.microsoft.com/store/productId/9NRLP032XWRR) | Misleading | 7-Zip clone that costs money. Claims it is free in the description despite charging money. | |
-| 7 Zip - RAR files, Zip files | [9NCBSRQKVKVS](https://www.microsoft.com/store/productId/9NCBSRQKVKVS) | Misleading | 7zip clone that costs money | |
-| 7-Zip for Store | [9NT4HZPHT8BC](https://www.microsoft.com/store/productId/9NT4HZPHT8BC) | Misleading | 7zip clone that costs money | |
-| Cloud Drive Permission Manager | [9N5KHD73FGKH](https://www.microsoft.com/store/productId/9N5KHD73FGKH) | Misleading | Misleading icon that looks like the Google Drive icon | |
-| Street Earth Map Pro 3D World Globe | [9NZPW5RFTTTG](https://www.microsoft.com/store/productId/9NZPW5RFTTTG) | Misleading | Misleading icon and ripoff of Google Earth | | |
-| CrystalDisk bench mark | [9N7G4X4Z8XQQ](https://www.microsoft.com/store/productId/9N7G4X4Z8XQQ) | Misleading | Presents itself as offical version | |
-| File Manager - File Explorer for Windows 10 | [9ND2N28DX22H](https://www.microsoft.com/store/productId/9ND2N28DX22H) | Misleading | It appears to be a copy of [Windows File Manager](https://www.microsoft.com/store/productId/9P7VBBBC49RB) with blue shade and removed help menu. The app might have followed the MIT license, but charging over $10 for that feels quite unethical at best. | |
+| WindRAR | [9MSVVS8TVB28](https://www.microsoft.com/store/productId/9MSVVS8TVB28) | Misleading | | ENAGA |
+| 7-Zip Pro | [9NRLP032XWRR](https://www.microsoft.com/store/productId/9NRLP032XWRR) | Misleading | 7-Zip clone that costs money. Claims it is free in the description despite charging money. | 广州色蕴动漫科技有限公司 |
+| 7 Zip - RAR files, Zip files | [9NCBSRQKVKVS](https://www.microsoft.com/store/productId/9NCBSRQKVKVS) | Misleading | 7zip clone that costs money | GNUStudio |
+| 7-Zip for Store | [9NT4HZPHT8BC](https://www.microsoft.com/store/productId/9NT4HZPHT8BC) | Misleading | 7zip clone that costs money | winuwp |
+| Cloud Drive Permission Manager | [9N5KHD73FGKH](https://www.microsoft.com/store/productId/9N5KHD73FGKH) | Misleading | Misleading icon that looks like the Google Drive icon | Lifeboatse |
+| Street Earth Map Pro 3D World Globe | [9NZPW5RFTTTG](https://www.microsoft.com/store/productId/9NZPW5RFTTTG) | Misleading | Misleading icon and ripoff of Google Earth | | Teodorovici |
+| File Manager - File Explorer for Windows 10 | [9ND2N28DX22H](https://www.microsoft.com/store/productId/9ND2N28DX22H) | Misleading | It appears to be a copy of [Windows File Manager](https://www.microsoft.com/store/productId/9P7VBBBC49RB) with blue shade and removed help menu. The app might have followed the MIT license, but charging over $10 for that feels quite unethical at best. | InternetOfThingsDev |
 | Ultra Screen Recorder for Free | [9N7D4XKG96KM)](https://www.microsoft.com/store/productId/9N7D4XKG96KM) | Misleading | Obs clone [XPFFH613W8V6LV](https://apps.microsoft.com/store/detail/obs-studio/XPFFH613W8V6LV)| |
 | GIMP EASY | [9P3GS1PX4KKG](https://www.microsoft.com/store/productId/9P3GS1PX4KKG) | Misleading | GIMP clone that costs money. | |
 | Quick Time Play | [9N79MJSFVQH2](https://www.microsoft.com/store/productId/9N79MJSFVQH2) | Misleading | Uses Apple's QuickTime logo to get people to believe this is the official QuickTime player. | |
