@@ -46,15 +46,15 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | Cloud Drive Permission Manager | [9N5KHD73FGKH](https://www.microsoft.com/store/productId/9N5KHD73FGKH) | Misleading | Misleading icon that looks like the Google Drive icon | Lifeboatse |
 | Street Earth Map Pro 3D World Globe | [9NZPW5RFTTTG](https://www.microsoft.com/store/productId/9NZPW5RFTTTG) | Misleading | Misleading icon and ripoff of Google Earth | | Teodorovici |
 | File Manager - File Explorer for Windows 10 | [9ND2N28DX22H](https://www.microsoft.com/store/productId/9ND2N28DX22H) | Misleading | It appears to be a copy of [Windows File Manager](https://www.microsoft.com/store/productId/9P7VBBBC49RB) with blue shade and removed help menu. The app might have followed the MIT license, but charging over $10 for that feels quite unethical at best. | InternetOfThingsDev |
-| Ultra Screen Recorder for Free | [9N7D4XKG96KM)](https://www.microsoft.com/store/productId/9N7D4XKG96KM) | Misleading | Obs clone [XPFFH613W8V6LV](https://apps.microsoft.com/store/detail/obs-studio/XPFFH613W8V6LV)| |
-| GIMP EASY | [9P3GS1PX4KKG](https://www.microsoft.com/store/productId/9P3GS1PX4KKG) | Misleading | GIMP clone that costs money. | |
-| Quick Time Play | [9N79MJSFVQH2](https://www.microsoft.com/store/productId/9N79MJSFVQH2) | Misleading | Uses Apple's QuickTime logo to get people to believe this is the official QuickTime player. | |
-| Word Converter - 1 Click Word Convert | [9MV17TJM3L8D](https://www.microsoft.com/store/productId/9MV17TJM3L8D) | Misleading | Uses the Microsoft Word logo | |
-| Ultra Office for Free | [9N161BJRLC1D](https://www.microsoft.com/store/productId/9N161BJRLC1D) | Misleading | LibreOffice Clone | |
-| Ultra Paint | [9PHMZWPMN859](https://www.microsoft.com/store/productId/9PHMZWPMN859) | Misleading | MyPaint Clone | |
-| Font Downloads for Discord | [9N5PK2WG3QQ4](https://www.microsoft.com/store/productId/9N5PK2WG3QQ4) | Misleading | Based on screenshots this app uses multiple companies logos either for the app icon of as part of the app GUI. It is also not possible to download a font for Discord (whatever that means). | |
-| realone player | [9NNPJSTTCSRH](https://www.microsoft.com/store/productId/9NNPJSTTCSRH) | Misleading | Uses the old RealPlayer logo to trick people to believe this is an official RealPlayer app. | |
-| PuTTY Pro - SSH and telnet client | [9NZKN8K3M111](https://www.microsoft.com/store/productId/9NZKN8K3M111) | Misleading | Clone of PuTTY. Claims to be a "PRO" version despite offering the same functionaltiy. | |
+| Ultra Screen Recorder for Free | [9N7D4XKG96KM)](https://www.microsoft.com/store/productId/9N7D4XKG96KM) | Misleading | Obs clone [XPFFH613W8V6LV](https://apps.microsoft.com/store/detail/obs-studio/XPFFH613W8V6LV)| CompuClever Systems Inc. |
+| GIMP EASY | [9P3GS1PX4KKG](https://www.microsoft.com/store/productId/9P3GS1PX4KKG) | Misleading | GIMP clone that costs money. | RepackagerExpress.com |
+| Quick Time Play | [9N79MJSFVQH2](https://www.microsoft.com/store/productId/9N79MJSFVQH2) | Misleading | Uses Apple's QuickTime logo to get people to believe this is the official QuickTime player. | MYNA APPS |
+| Word Converter - 1 Click Word Convert | [9MV17TJM3L8D](https://www.microsoft.com/store/productId/9MV17TJM3L8D) | Misleading | Uses the Microsoft Word logo | Evlar |
+| Ultra Office for Free | [9N161BJRLC1D](https://www.microsoft.com/store/productId/9N161BJRLC1D) | Misleading | LibreOffice Clone | CompuClever Systems Inc. |
+| Ultra Paint | [9PHMZWPMN859](https://www.microsoft.com/store/productId/9PHMZWPMN859) | Misleading | MyPaint Clone | CompuClever Systems Inc. |
+| Font Downloads for Discord | [9N5PK2WG3QQ4](https://www.microsoft.com/store/productId/9N5PK2WG3QQ4) | Misleading | Based on screenshots this app uses multiple companies logos either for the app icon of as part of the app GUI. It is also not possible to download a font for Discord (whatever that means). | Ming Ya |
+| realone player | [9NNPJSTTCSRH](https://www.microsoft.com/store/productId/9NNPJSTTCSRH) | Misleading | Uses the old RealPlayer logo to trick people to believe this is an official RealPlayer app. | MYNA APPS |
+| PuTTY Pro - SSH and telnet client | [9NZKN8K3M111](https://www.microsoft.com/store/productId/9NZKN8K3M111) | Misleading | Clone of PuTTY. Claims to be a "PRO" version despite offering the same functionaltiy. | Nice Monday Studio |
 | News Reader for BBC News | [9NQ9JCP3DR1R](https://www.microsoft.com/store/productId/9NQ9JCP3DR1R) | Misleading | App logo makes it look like official app | Fetisenko |
 | Unofficial News Reader for CNN | [9N2810CK45SX](https://www.microsoft.com/store/productId/9N2810CK45SX) | Misleading | App name clarifies it's unofficial but the logo is misleading | Fetisenko |
 | All-in-One Video Meeting for Teams| [9PCJ9DLJ0JFN](https://www.microsoft.com/store/productId/9PCJ9DLJ0JFN) | Misleading | Uses Microsoft Teams logo | Epon Scanner |
