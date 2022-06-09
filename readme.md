@@ -25,7 +25,9 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | Driver Download for Canon Printer | [9MVKZW06XC8B](https://www.microsoft.com/store/productId/9MVKZW06XC8B) | Spam | | Software Driver Support |
 | YouTube Download for Windows | [9NFMKPLRG42M](https://www.microsoft.com/store/productId/9NFMKPLRG42M) | Spam | | Marabelove |
 | Real Ebooks Reader For Kindle On Windows | [9P1B3NTMVSPZ](https://www.microsoft.com/store/productId/9P1B3NTMVSPZ) | Spam | | Marabelove |
-| Driver For Canon Printer . | [9NSPX7XVS9DB](https://www.microsoft.com/store/productId/9NSPX7XVS9DB) | Spam | | Hanni studio |
+| Driver Download For Canon Scanner | [9PD466D4RVNP](https://www.microsoft.com/store/productId/9PD466D4RVNP) | Spam | | Hanni studio |
+| Driver For Brother Printer. | [9N5C8X2FG1KS](https://www.microsoft.com/store/productId/9N5C8X2FG1KS) | Spam | | Hanni studio |
+| Driver For Samsung Printer | [9NHK5QSNL7HS](https://www.microsoft.com/store/productId/9NHK5QSNL7HS) | Spam | | Hanni studio |
 | Tutorial for Blender 3D | [9PD4R3H5D6MH](https://www.microsoft.com/store/productId/9PD4R3H5D6MH) | Spam | | Shek APP |
 | Guide for Digital Calendar | [9P4QMRBRBDGD](https://www.microsoft.com/store/productId/9P4QMRBRBDGD) | Spam | | Shek APP |
 | Guide For Ableton Live | [9P928JVK6K4N](https://www.microsoft.com/store/productId/9P928JVK6K4N) | Spam | | Shek APP |
