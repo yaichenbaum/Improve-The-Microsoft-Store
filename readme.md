@@ -68,3 +68,8 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | Merge multiple PDF files | [9N0BSQCPR22X](https://www.microsoft.com/store/productId/9N0BSQCPR22X) | Duplicate | Duplicate of PDF multi-file merge [9NTT9HHG32ZP](https://www.microsoft.com/store/productId/9NTT9HHG32ZP)| Youngpingapps |
 | Convert HEIC image to JPEG format | [9N7RB309LZ9D](https://www.microsoft.com/store/productId/9N7RB309LZ9D) | Duplicate | Duplicate of Convert HEIC images to PNG and JPEG [9PDTSR53RVHM](https://www.microsoft.com/store/productId/9PDTSR53RVHM)| Youngpingapps |
 | My Private Diary Notebook - Private notes, group management note content, password note diary | [9N1VCGG6816V](https://www.microsoft.com/store/productId/9N1VCGG6816V) | Duplicate | Duplicate of Daily Notebook - Simple Memo Diary and Photo [9PJMWXKTNP45](https://www.microsoft.com/store/productId/9PJMWXKTNP45) | YongWenHu |
+
+# Devs who publish the same app on multiple accounts
+| Publishers |
+|----------------|
+| [YONGPINGAPPS](https://apps.microsoft.com/store/search?hl=en-us&gl=US&publisher=YONGPINGAPPS), [LiRenApps](https://apps.microsoft.com/store/search?hl=en-us&gl=US&publisher=LiRenApps), [YongWenHu](https://apps.microsoft.com/store/search?hl=en-us&gl=US&publisher=YongWenHu) |
