@@ -76,4 +76,4 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 There are a number of bad actors in the store who publish the same application on different accounts. In addition to tracking the individual apps, we're intrested in tracking the publishers behind them and grouping them together.
 | Publishers |
 |----------------|
-| [YONGPINGAPPS](https://apps.microsoft.com/store/search?hl=en-us&gl=US&publisher=YONGPINGAPPS), [LiRenApps](https://apps.microsoft.com/store/search?hl=en-us&gl=US&publisher=LiRenApps), [YongWenHu](https://apps.microsoft.com/store/search?hl=en-us&gl=US&publisher=YongWenHu) |
+| [YONGPINGAPPS](https://apps.microsoft.com/store/search?hl=en-us&gl=US&publisher=YONGPINGAPPS), [LiRenApps](https://apps.microsoft.com/store/search?hl=en-us&gl=US&publisher=LiRenApps), [YongWenHu](https://apps.microsoft.com/store/search?hl=en-us&gl=US&publisher=YongWenHu), [ZHYAPPS](https://apps.microsoft.com/store/detail/my-audio-and-video-player/9N36C0PWVTG4?hl=en)|
