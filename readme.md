@@ -23,7 +23,6 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | Tutorial for Bitmoji User | [9NHFZVBT29GH](https://www.microsoft.com/store/productId/9NHFZVBT29GH) | Spam | | Chiu Lab |
 | Tutor for VPN | [9NK5SG3KJTG1](https://www.microsoft.com/store/productId/9NK5SG3KJTG1) | Spam | | Chiu Lab |
 | Driver Download for Canon Printer | [9MVKZW06XC8B](https://www.microsoft.com/store/productId/9MVKZW06XC8B) | Spam | | Software Driver Support |
-| YouTube Download for Windows | [9NFMKPLRG42M](https://www.microsoft.com/store/productId/9NFMKPLRG42M) | Spam | | Marabelove |
 | Real Ebooks Reader For Kindle On Windows | [9P1B3NTMVSPZ](https://www.microsoft.com/store/productId/9P1B3NTMVSPZ) | Spam | | Marabelove |
 | Driver Download For Canon Scanner | [9PD466D4RVNP](https://www.microsoft.com/store/productId/9PD466D4RVNP) | Spam | | Hanni studio |
 | Driver For Brother Printer. | [9N5C8X2FG1KS](https://www.microsoft.com/store/productId/9N5C8X2FG1KS) | Spam | | Hanni studio |
