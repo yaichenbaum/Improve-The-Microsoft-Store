@@ -42,8 +42,6 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | PDF to Excel Converter Pro | [9NGQXVNN0XMG](https://www.microsoft.com/store/productId/9NGQXVNN0XMG) | Spam | | Lockie studio |
 | Connect to AirPods Pro | [9NZ31TCFPCBT](https://www.microsoft.com/store/productId/9NZ31TCFPCBT) | Spam | Tricks users into believing that they need to buy this app to connect their AirPods Pro. This functionality is already built into Windows. | Lockie studio |
 | WindRAR | [9MSVVS8TVB28](https://www.microsoft.com/store/productId/9MSVVS8TVB28) | Misleading | | ENAGA |
-| 7-Zip Pro | [9NRLP032XWRR](https://www.microsoft.com/store/productId/9NRLP032XWRR) | Misleading | 7-Zip clone that costs money. Claims it is free in the description despite charging money. | 广州色蕴动漫科技有限公司 |
-| 7 Zip - RAR files, Zip files | [9NCBSRQKVKVS](https://www.microsoft.com/store/productId/9NCBSRQKVKVS) | Misleading | 7zip clone that costs money | GNUStudio |
 | 7-Zip for Store | [9NT4HZPHT8BC](https://www.microsoft.com/store/productId/9NT4HZPHT8BC) | Misleading | 7zip clone that costs money | winuwp |
 | Cloud Drive Permission Manager | [9N5KHD73FGKH](https://www.microsoft.com/store/productId/9N5KHD73FGKH) | Misleading | Misleading icon that looks like the Google Drive icon | Lifeboatse |
 | Street Earth Map Pro 3D World Globe | [9NZPW5RFTTTG](https://www.microsoft.com/store/productId/9NZPW5RFTTTG) | Misleading | Misleading icon and ripoff of Google Earth | Teodorovici |
