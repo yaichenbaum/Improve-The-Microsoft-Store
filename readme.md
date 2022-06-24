@@ -40,7 +40,6 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | Solidworks Tutor | [9N2ND0KGHQMR](https://www.microsoft.com/store/productId/9N2ND0KGHQMR) | Spam | | syncoinapp |
 | Autocad 2020 Tutor | [9PGT5WV34806](https://www.microsoft.com/store/productId/9PGT5WV34806) | Spam | | syncoinapp |
 | PDF to Excel Converter Pro | [9NGQXVNN0XMG](https://www.microsoft.com/store/productId/9NGQXVNN0XMG) | Spam | | Lockie studio |
-| Connect to AirPods Pro | [9NZ31TCFPCBT](https://www.microsoft.com/store/productId/9NZ31TCFPCBT) | Spam | Tricks users into believing that they need to buy this app to connect their AirPods Pro. This functionality is already built into Windows. | Lockie studio |
 | WindRAR | [9MSVVS8TVB28](https://www.microsoft.com/store/productId/9MSVVS8TVB28) | Misleading | | ENAGA |
 | 7-Zip for Store | [9NT4HZPHT8BC](https://www.microsoft.com/store/productId/9NT4HZPHT8BC) | Misleading | 7zip clone that costs money | winuwp |
 | Street Earth Map Pro 3D World Globe | [9NZPW5RFTTTG](https://www.microsoft.com/store/productId/9NZPW5RFTTTG) | Misleading | Misleading icon and ripoff of Google Earth | Teodorovici |
