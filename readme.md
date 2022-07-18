@@ -55,7 +55,6 @@ Contributions are welcome. Please note that the list is sorted by reason so plea
 | News Reader for BBC News | [9NQ9JCP3DR1R](https://www.microsoft.com/store/productId/9NQ9JCP3DR1R) | Misleading | App logo makes it look like official app | Fetisenko |
 | Unofficial News Reader for CNN | [9N2810CK45SX](https://www.microsoft.com/store/productId/9N2810CK45SX) | Misleading | App name clarifies it's unofficial but the logo is misleading | Fetisenko |
 | All-in-One Video Meeting for Teams| [9PCJ9DLJ0JFN](https://www.microsoft.com/store/productId/9PCJ9DLJ0JFN) | Misleading | Uses Microsoft Teams logo | Epon Scanner |
-| Show Hide Taskbar | [9NM26HJZXGJQ](https://www.microsoft.com/store/productId/9NM26HJZXGJQ) | Unnecessary | Doesn't provide any functionality that's not already in the OS | y8ngl |
 | Complete Shutdown | [9MWJ9M6QVJF0](https://apps.microsoft.com/store/detail/productId/9MWJ9M6QVJF0) |  Unnecessary | Doesn't provide any functionality that's not already in the OS | MKA Solutions |
 | Finder - file explorer for Windows 11 | [9P09W6PH7MW6](https://www.microsoft.com/store/productId/9P09W6PH7MW6) | Duplicate | Duplicate of File Explorer - Tabs, ZIP, RAR, 7z for Windows 11 [9PJB9045P4ZQ](https://www.microsoft.com/store/productId/9PJB9045P4ZQ) | LLC "SKYSPARK CORP" |
 | Document Manager for Windows 11 | [9N913N4Z9JBC](https://www.microsoft.com/store/productId/9N73SJ9N94P4) | Duplicate | Duplicate of Document Manager for Windows 10 [9N913N4Z9JBC](https://www.microsoft.com/store/productId/9N913N4Z9JBC) | vNext.Dev |
